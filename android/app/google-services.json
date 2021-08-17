@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615773307279",
+    "project_id": "fir-yt-tgd-d2b9c",
+    "storage_bucket": "fir-yt-tgd-d2b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615773307279:android:2d6b0adb05a304842ccbfa",
+        "android_client_info": {
+          "package_name": "com.example.fireabse_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615773307279-5lvj5nvsmrja5bom0407a1nf4o82tb78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQPUAccxvE2Yhg9g-h9bUKPYf2T8Vx5uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615773307279-5lvj5nvsmrja5bom0407a1nf4o82tb78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
